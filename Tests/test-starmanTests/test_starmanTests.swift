@@ -1,5 +1,5 @@
 import XCTest
-@testable import test_starman
+@testable import TestStarman
 
 final class test_starmanTests: XCTestCase {
     func testExample() throws {
